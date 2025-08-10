@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mahendra Uppalapati
 
 - 💻 I’m currently working on **Java, Spring Boot & Microservices**  
-- 📚 I’m currently learning **Advanced Data Structures, Software Architecture, Relational Database Design, Data Munging**  
+- 📚 I’m currently learning **Advanced Software Architecture Looping, Relational Database Design, Data Munging**  
 - 🤝 I’m looking to collaborate on **Enterprise Java Applications & Full Stack Projects**  
 - 📝 I occasionally share insights and code snippets on [LinkedIn](https://www.linkedin.com/in/mahi123/)  
 - 📧 How to reach me: **mahendrauppalapati60@gmail.com**  
