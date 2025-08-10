@@ -46,7 +46,8 @@
 ---
 
 ## 📈 Contribution Graph
-[![Mahendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&custom_title=Mahendra's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
