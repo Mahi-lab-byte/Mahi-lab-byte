@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)
+![Mahi's GitHub Activity Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahi123&theme=radical)
 
 ---
