@@ -11,10 +11,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Pie Chart View)
 
-![Mahendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahi123&theme=radical)  
+![Top Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi123&layout=pie&theme=radical)  
 
 ---
 
