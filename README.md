@@ -13,8 +13,8 @@
 
 ## 📊 GitHub Stats
 
-![Mahi's GitHub Activity Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahi123&theme=radical)
+![Mahendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahi123&theme=radical)  
 
 ---
 
@@ -47,7 +47,6 @@
 
 ## 📈 Contribution Graph
 [![Mahendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&custom_title=Mahendra's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
