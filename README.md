@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on **Enterprise Java Applications & Full Stack Projects**  
 - 📝 I occasionally share insights and code snippets on [LinkedIn](https://www.linkedin.com/in/mahi123/)  
 - 📧 How to reach me: **mahendrauppalapati60@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/10aSHmnRoR5BLTfFg4XtwvZ5Qwi4FdumM/view?usp=sharing)  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-JFfcdRgjJ-BmxGjyKEZ_IVCM7iUo1Ot/view?usp=sharing)  
 
 ---
 
