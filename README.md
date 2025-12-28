@@ -1,53 +1,82 @@
-# Hi 👋, I'm Mahendra Uppalapati
+# Hi 👋, I'm Mahendra Uppalapati  
+
+💎 **Java Backend Engineer | Spring Boot | Microservices | SQL | REST APIs**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahi123&label=Profile%20views&color=0e75b6&style=flat)
 
-- 💻 I’m currently working on **Java, Spring Boot & Microservices**  
-- 📚 I’m currently learning **Advanced Software Architecture Looping, Relational Database Design, Data Munging**  
-- 🤝 I’m looking to collaborate on **Enterprise Java Applications & Full Stack Projects**  
-- 📝 I occasionally share insights and code snippets on [LinkedIn](https://www.linkedin.com/in/mahi123/)  
-- 📧 How to reach me: **mahendrauppalapati60@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-JFfcdRgjJ-BmxGjyKEZ_IVCM7iUo1Ot/view?usp=sharing)  
+---
+
+## 🧠 About Me
+
+I’m a backend-focused software engineer passionate about building **high-performance, scalable, and enterprise-grade applications** using **Java and the Spring ecosystem**.  
+I specialize in **RESTful APIs, Microservices Architecture, Database Design**, and clean coding practices.
+
+- 💻 Currently building **Java, Spring Boot & Microservices**
+- 📚 Learning **Advanced Software Architecture, RDBMS Design & Data Processing**
+- 🤝 Open to **Enterprise Java & Full-Stack collaborations**
+- 📝 Sharing insights on [LinkedIn](https://www.linkedin.com/in/mahi123/)
+- 📧 Contact: **mahendrauppalapati60@gmail.com**
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1-JFfcdRgjJ-BmxGjyKEZ_IVCM7iUo1Ot/view)
 
 ---
 
-## 📊 GitHub Stats (Pie Chart View)
+## ⚡ Tech Arsenal (Skill Badges)
 
-![Top Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi123&layout=pie&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mahi123&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 💻 Tech Stack
+### 🔥 Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+
+---
+
+### 🗄️ Databases & ORM
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge)
+
+---
+
+### 🌐 Web & Frontend Basics
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### 🧪 Testing, Tools & DevOps
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
-[![Mahendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&custom_title=Mahendra's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Power Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi123&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)
 
 ---
 
-## 💬 Random Dev Quote
+## 🏆 Achievements & Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=mahi123&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+## 📈 Contribution Activity
+[![Mahendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&custom_title=Mahendra's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💬 Developer Mindset
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🚀 Motto
+> *Build systems that scale. Write code that lasts. Design with purpose.*
