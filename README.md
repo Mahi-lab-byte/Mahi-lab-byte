@@ -20,7 +20,7 @@ I specialize in **RESTful APIs, Microservices Architecture, Database Design**, a
 
 ---
 
-## ⚡ Tech Arsenal (Skill Badges)
+## ⚡ Tech Arsenal
 
 ### 🔥 Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,28 +48,12 @@ I specialize in **RESTful APIs, Microservices Architecture, Database Design**, a
 
 ---
 
-### 🧪 Testing, Tools & DevOps
+### 🧪 Tools & DevOps
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-
----
-
-## 📊 GitHub Power Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi123&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi123&show_icons=true&theme=radical)
-
----
-
-## 🏆 Achievements & Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mahi123&theme=radical&no-frame=true&row=1&column=6)
-
----
-
-## 📈 Contribution Activity
-[![Mahendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi123&custom_title=Mahendra's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
